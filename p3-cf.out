@@ -19,3 +19,7 @@
 2025-09-09T15:29:31Z INF ICMP proxy will use fe80::802b:38ff:fe3d:bcd0 in zone eth0 as source for IPv6
 2025-09-09T15:29:31Z INF Starting metrics server on 127.0.0.1:20241/metrics
 2025-09-09T15:29:31Z INF Registered tunnel connection connIndex=0 connection=70b2b432-9514-46f6-80b3-1df52e9a3857 event=0 ip=198.41.200.23 location=iad11 protocol=http2
+2025-09-09T19:11:42Z INF Initiating graceful shutdown due to signal terminated ...
+2025-09-09T19:12:12Z INF Metrics server stopped
+2025-09-09T19:12:12Z ERR failed to serve incoming request error="Error shutting down control stream: context canceled"
+2025-09-09T19:12:12Z INF Tunnel server stopped
