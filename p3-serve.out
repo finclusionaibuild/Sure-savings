@@ -1,0 +1,7 @@
+ INFO  Accepting connections at http://localhost:5176
+ HTTP  9/9/2025 7:11:26 PM ::1 HEAD /
+ HTTP  9/9/2025 7:11:26 PM ::1 Returned 200 in 11 ms
+ HTTP  9/9/2025 7:12:00 PM ::1 HEAD /
+ HTTP  9/9/2025 7:12:00 PM ::1 Returned 200 in 2 ms
+ HTTP  9/9/2025 7:12:00 PM ::1 GET /
+ HTTP  9/9/2025 7:12:00 PM ::1 Returned 200 in 1 ms
